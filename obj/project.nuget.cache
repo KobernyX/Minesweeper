@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jacYBTMgkmVIbLFx/keUGg0hccRB0KJw/5AZjsFXj/GGhR2CRR3tlf+BgDLQ40kb3nIiQeZ52sRy5dsMLLpWFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\volod\\OneDrive\\Desktop\\škola\\PROGRAMOVANI\\vs\\skola\\Minesweeper\\Minesweeper\\Minesweeper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\volod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\volod\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\volod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\volod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
